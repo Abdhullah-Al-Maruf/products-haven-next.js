@@ -3,13 +3,13 @@ import Image from "next/image";
 
 const Banner = () => {
   return (
-    <div className="bg-linear-to-t from-[#9538E2] to-[#9538E1] h-[80vh]  mx-5 rounded-md ">
+    <div className="bg-linear-to-t from-[#9538E2] to-[#9538E1] h-[75vh] mx-5 rounded-md ">
       <div className="space-y-5 p-10 relative">
         <h1 className="font-bold text-white text-3xl text-center">
-          Upgrade Your Tech Accessorize with <br /> Gadget Heaven Accessories
+          Upgrade Your  Accessorize with <br /> product Heaven Accessories
         </h1>
         <p className="text-white text-center">
-          Explore the latest gadgets that will take your experience to the next
+          Explore the latest products that will take your experience to the next
           level. From smart devices to <br /> the coolest accessories, we have
           it all!
         </p>
